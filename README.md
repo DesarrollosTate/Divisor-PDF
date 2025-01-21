@@ -1,4 +1,3 @@
-
 # Divisor PDF (Andreani)
 
 Al subir de manera masiva pedidos de Andreani, los mismos se generan 4 por hoja.
@@ -18,7 +17,7 @@ pip install -r requirements.txt
 
 ```
 
-A su vez será necesario descargar la última versión de Poppler en: https://github.com/oschwartz10612/poppler-windows/releases/
+Poppler no es necesario, dado que se dejar en la raíz del proyecto, pero el link es este: https://github.com/oschwartz10612/poppler-windows/releases/
 
 
 ## Pasos importantes
